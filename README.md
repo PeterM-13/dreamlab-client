@@ -1,6 +1,11 @@
 # Dreamlab
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
+## Introduction
+A website where users can upload pictures of objects, and 3D models are automatically generated, allowing users to experiement with different room arrangements.
+<img width="1778" height="1102" alt="Screenshot 2025-06-26 at 1 40 28 pm" src="https://github.com/user-attachments/assets/f91a1146-d4c2-4943-af88-a2e7b6111bfe" />
+
+<img width="2884" height="1829" alt="Presentation Poster" src="https://github.com/user-attachments/assets/5bbaa25e-4bf9-4ee7-a0cc-de010321c53b" />
+
 
 ## Development server
 
@@ -51,7 +56,7 @@ For end-to-end (e2e) testing, run:
 ```bash
 ng e2e
 ```
-
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
 ## Additional Resources
